@@ -7,7 +7,7 @@ end
 FPLiftSettings = {}
 FPLiftSettings["DEBUG"] = false
 FPLiftSettings["DEBUG_MODE"] = false
-FPLiftSettings["ROLL_TIMEOUT"] = 120 --seconds
+FPLiftSettings["ROLL_TIMEOUT"] = 60 --seconds
 FPLiftSettings["GIVE_LOOT_TIMEOUT"] = 3 --seconds
 FPLiftSettings["PRUNE_TIME"] = 60 * 5 --seconds
 FPLiftSettings["RollTypes"] = {}
