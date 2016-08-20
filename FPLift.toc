@@ -1,0 +1,15 @@
+## Interface: 70000
+## Title: FPLift
+## Notes: Raid loot distribution addon used by (US-A) Face Pull Raid Group, CTR Omen on Aerie Peak
+## Version: r1
+## SavedVariables: FPLiftDB
+## SavedVariablesPerCharacter: FPLiftCharDB
+## Author: Shockah-Ghostlands-EU, Modifications Voith-AeriePeak-US
+
+# Embedded Ace 3.0 Libraries
+embeds.xml
+
+# Load Main Libraries
+FPLift.lua
+PendingRolls.lua
+RollSummary.lua
