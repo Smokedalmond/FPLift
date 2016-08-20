@@ -112,7 +112,7 @@ local libCE = libC:GetAddonEncodeTable()
 local LDB = LibStub("LibDataBroker-1.1"):NewDataObject("FPLift", {
 	type = "launcher",
 	text = "FPLift",
-	icon = [[Interface\Icons\inv_misc_dice_01]],
+	icon = [[Interface\AddOns\FPLift\Textures\FPLootIcon]],
 	OnClick = function(self, button)
 		if button == "LeftButton" then
 			if not FPLift:DidRollOnAllItems() then
