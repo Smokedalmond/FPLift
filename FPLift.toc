@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 71000
 ## Title: FPLift
 ## Notes: Raid loot distribution addon used by (US-A) Face Pull Raid Group, CTR Omen on Aerie Peak
 ## Version: r2
